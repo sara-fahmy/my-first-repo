@@ -1,6 +1,6 @@
 
 def func(a,b):
-    return a + b
+    return "hello world"
 
 def func2(a,b):
     return a * b
